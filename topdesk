@@ -85,3 +85,23 @@ Met gestructureerde informatie kun je trends analyseren en processen verbeteren.
 Samenwerking:
 
 Het maakt de communicatie tussen de eerste en tweede lijn soepel en effectief.
+
+Blauw tekstvak
+Inhoud:
+Hier vul je de omschrijving van het probleem in. Dit is de hoofdtekst waarin je duidelijk beschrijft wat de melder ervaart.
+Voorbeeld:
+"Gebruiker kan geen e-mails verzenden of ontvangen in Outlook. Bij het versturen van een e-mail verschijnt de foutmelding 'SMTP-server niet bereikbaar'. De gebruiker heeft geprobeerd de applicatie opnieuw op te starten, zonder succes."
+Vermeld ook eventuele tijdstippen of situaties waarin het probleem zich voordoet (bijvoorbeeld: "Dit probleem begon op 19 november om 09:00 uur").
+Voeg relevante details toe, zoals systeeminformatie (bijvoorbeeld: "Windows 10, Outlook 365").
+Waarom:
+Dit is de kerninformatie waarmee de behandelaar begrijpt wat het probleem is. Hoe gedetailleerder je dit invult, hoe sneller het probleem kan worden opgelost.
+
+
+Wit tekstvak
+Inhoud:
+Dit vak gebruik je voor interne notities of aanvullende acties die je als behandelaar hebt uitgevoerd. Dit deel kan worden gebruikt voor:
+Stappen die je hebt ondernomen om het probleem te verhelpen (bijvoorbeeld: "Test e-mail verzonden vanaf een andere pc, probleem blijft bestaan. Outlook opnieuw geconfigureerd, geen verbetering").
+Interne opmerkingen die niet direct relevant zijn voor de melder.
+Eventuele statusupdates, zoals: "Probleem geëscaleerd naar de tweede lijn op [datum]."
+Waarom:
+Dit vak is vooral handig voor interne communicatie en opvolging binnen het team. Vaak is dit vak niet zichtbaar voor de melder, zodat je hier gevoelige of technische details kunt noteren.
