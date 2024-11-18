@@ -1,2 +1,88 @@
 all the information you wuild need for topdesk
 https://docs.topdesk.com/index.html?lang=nl
+
+
+
+Hieronder vind je een overzicht van wat nodig is om een eerste lijns melding en een tweede lijns melding te maken in TOPdesk, inclusief waarom deze stappen belangrijk zijn.
+
+Eerste Lijns Melding
+Wat is een eerste lijns melding?
+Dit is een melding die wordt aangemaakt door de frontoffice, servicedesk of een eerste lijns supportmedewerker. Het betreft eenvoudige en vaak herhalende problemen die direct kunnen worden opgelost.
+
+Welke informatie heb je nodig?
+Aanmelder:
+
+Naam, e-mailadres en eventueel telefoonnummer van de melder.
+Waarom: Hiermee houd je overzicht van wie melding heeft gemaakt en kun je terugkoppelen.
+Datum en tijd van de melding:
+
+Wanneer de melding is ingediend.
+Waarom: Voor rapportages en SLA-bewaking.
+Categorie/Type:
+
+Kies een passende categorie, zoals "Hardware", "Software", "Netwerk", etc.
+Waarom: Dit helpt bij het toewijzen en prioriteren van de melding.
+Onderwerp/Korte omschrijving:
+
+Een korte titel die het probleem beschrijft (bijvoorbeeld: "E-mail werkt niet").
+Waarom: Duidelijkheid bij het scannen van meldingen.
+Uitgebreide omschrijving:
+
+Beschrijf het probleem gedetailleerd, inclusief stappen die de gebruiker heeft uitgevoerd.
+Waarom: Dit geeft de ontvanger direct meer context.
+Urgentie en impact:
+
+Beoordeel hoe urgent het probleem is en hoeveel gebruikers zijn getroffen.
+Waarom: Dit bepaalt de prioriteit en hoe snel het moet worden opgelost.
+Eventuele bijlagen:
+
+Voeg schermafbeeldingen of logbestanden toe.
+Waarom: Dit helpt bij een snellere diagnose van het probleem.
+Oplossing (indien direct beschikbaar):
+
+Beschrijf hoe je het probleem hebt opgelost.
+Waarom: Hiermee voorkom je onnodige escalaties.
+Tweede Lijns Melding
+
+
+
+Wat is een tweede lijns melding?
+Deze meldingen worden doorgestuurd naar een specialistenteam of ervaren medewerkers die meer technische kennis hebben. Dit gebeurt wanneer een probleem niet direct door de eerste lijn kan worden opgelost.
+
+Welke informatie heb je nodig?
+Alle informatie uit de eerste lijns melding:
+
+Zorg dat de melding volledig en helder is ingevuld.
+Waarom: De tweede lijn moet niet opnieuw basisinformatie verzamelen.
+Diagnose van de eerste lijn:
+
+Beschrijf wat je hebt gecontroleerd of geprobeerd (bijvoorbeeld: "Herstart geprobeerd, werkte niet").
+Waarom: Dit voorkomt dubbel werk.
+Eventuele logbestanden of technische data:
+
+Bijvoorbeeld foutcodes, netwerkschema’s of serverlogs.
+Waarom: Voor gedetailleerde technische analyse.
+Reden voor escalatie:
+
+Leg uit waarom je het probleem niet zelf kunt oplossen (bijvoorbeeld: "Geen rechten om serverinstellingen aan te passen").
+Waarom: Dit maakt duidelijk waarom de tweede lijn nodig is.
+SLA/Prioriteit:
+
+Bevestig de SLA en prioriteit van het probleem.
+
+
+
+Waarom: Dit helpt bij de planning en opvolging.
+Waarom is dit belangrijk?
+Efficiëntie:
+
+Goed ingevulde meldingen zorgen voor minder vertraging in het proces.
+Kwaliteit van dienstverlening:
+
+Correcte meldingen leiden tot een snellere oplossing en betere klantervaring.
+Rapportages en analyses:
+
+Met gestructureerde informatie kun je trends analyseren en processen verbeteren.
+Samenwerking:
+
+Het maakt de communicatie tussen de eerste en tweede lijn soepel en effectief.
